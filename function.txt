@@ -1,0 +1,16 @@
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Functions <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+A function is a reusable block of code that performs a specific task.
+👉 It helps avoid repetition and makes programs organized.
+
+🔹 Function Syntax-----
+             
+            def function_name(parameters):
+                 # code
+                 return value
+
+
+
+                 
